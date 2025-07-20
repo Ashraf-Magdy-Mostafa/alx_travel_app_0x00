@@ -5,4 +5,3 @@ drf-yasg
 mysqlclient  # or pymysql if preferred
 django-environ
 celery
-rabbitmq
